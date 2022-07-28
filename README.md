@@ -1,6 +1,6 @@
 ## Olá 👋
 
-# Biografia
+# Bio
 
 Desenvolvimento de projetos com o uso de diversas tecnologias.
 
