@@ -1,6 +1,6 @@
-## Olá 👋
+# Oi, eu sou o Carlos 👋
 
-# Bio
+## Bio
 
 Desenvolvimento de projetos com o uso de diversas tecnologias.
 
